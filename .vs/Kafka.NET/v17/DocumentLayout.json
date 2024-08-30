@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Kafka.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB8851D-4678-449F-B582-C43AB1854C9C}|Kafka.NET\\Kafka.NET.csproj|c:\\users\\admin\\source\\repos\\kafka.net\\kafka.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB8851D-4678-449F-B582-C43AB1854C9C}|Kafka.NET\\Kafka.NET.csproj|solutionrelative:kafka.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB8851D-4678-449F-B582-C43AB1854C9C}|Kafka.NET\\Kafka.NET.csproj|c:\\users\\admin\\source\\repos\\kafka.net\\kafka.net\\kafka\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB8851D-4678-449F-B582-C43AB1854C9C}|Kafka.NET\\Kafka.NET.csproj|solutionrelative:kafka.net\\kafka\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB8851D-4678-449F-B582-C43AB1854C9C}|Kafka.NET\\Kafka.NET.csproj|c:\\users\\admin\\source\\repos\\kafka.net\\kafka.net\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BBB8851D-4678-449F-B582-C43AB1854C9C}|Kafka.NET\\Kafka.NET.csproj|solutionrelative:kafka.net\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 347,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KafkaConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Kafka.NET\\Kafka.NET\\Kafka\\KafkaConsumerService.cs",
+              "RelativeDocumentMoniker": "Kafka.NET\\Kafka\\KafkaConsumerService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Kafka.NET\\Kafka.NET\\Kafka\\KafkaConsumerService.cs",
+              "RelativeToolTip": "Kafka.NET\\Kafka\\KafkaConsumerService.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAYwCkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:59:08.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Kafka.NET\\Kafka.NET\\Program.cs",
+              "RelativeDocumentMoniker": "Kafka.NET\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Kafka.NET\\Kafka.NET\\Program.cs",
+              "RelativeToolTip": "Kafka.NET\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:58:11.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Kafka.NET\\Kafka.NET\\Dockerfile",
+              "RelativeDocumentMoniker": "Kafka.NET\\Dockerfile",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Kafka.NET\\Kafka.NET\\Dockerfile",
+              "RelativeToolTip": "Kafka.NET\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-30T06:51:09.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
